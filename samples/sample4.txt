@@ -1,0 +1,3 @@
+Tue: Anita finished testing the holiday customer notification schedule (COMM-612), all 15 template checks passed
+Wed: awaiting legal review for the revised overdraft disclosure notice, Kevin to follow up by Friday
+Fri: next week the team will start sprint 24 backlog grooming and monitor production delivery rates over the long weekend

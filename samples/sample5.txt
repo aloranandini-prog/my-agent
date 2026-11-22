@@ -1,0 +1,5 @@
+Mon: Finished work on the customer communication feature, ready for testing
+Tue: Waiting on approval from someone before we can deploy to production
+Wed: Big risk identified with customer data privacy that could delay the entire banking release
+Thu: There is a critical blocker in the notification service and the build is completely broken
+Fri: Next week we plan to do some testing and talk to stakeholders

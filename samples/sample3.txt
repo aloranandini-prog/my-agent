@@ -1,0 +1,10 @@
+mon - vikram done with comms-502 auth fix... tests look ok i guess
+monday: ananya spent half day chasing down why sms not sending to t-mobile users.. seems like carrier timeout??
+tue: pushed build 1.9 to staging env. 2 tests failed in regression, need rerunning tmrw
+tue: still wating for infosec signoff on the webhhok changes!! sarah pinging them again
+wed: latency on kafka queue is getting bad could mess up the nov 30 cutoff date if not fixed soon
+wednesday: demo to client went super good, vp liked the new push notification preview
+thu: ravi stuck on comm-510 db timeout error. cant repro localy. tried restart didnt help
+thurs: fixed typo in disclaimer email template comm-499
+fri: nxt week planning to start api docs and prep demo for thrusday
+friday: still no prod log access.. it ticket raised 4 days ago no reply yet
